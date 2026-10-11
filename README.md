@@ -2,6 +2,10 @@
 
 A simple, interactive command-line interface (CLI) number guessing game built with Python. 
 
+<p align="center">
+  <img src="game_preview.png" alt="Number Guessing Game Preview" width="600">
+</p>
+
 ## 🎮 How to Play
 
 The computer will randomly select a secret number between **1 and 100**. Your goal is to guess this number within **5 attempts**. After each guess, the game will provide feedback indicating whether your guess was too high or too low.
